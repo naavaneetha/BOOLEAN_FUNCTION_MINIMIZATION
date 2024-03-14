@@ -16,7 +16,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Theory**
 
-**Logic Diagram**
+
 
 **Procedure**
 
@@ -37,6 +37,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 Developed by: RegisterNumber:*/
 
+![EXP 2 DE PRG](https://github.com/naavaneetha/BOOLEAN_FUNCTION_MINIMIZATION/assets/149148235/a3e76ca4-5bad-4ac1-82a9-0203a0080b41)
 
 **RTL realization**
 
@@ -44,7 +45,11 @@ Developed by: RegisterNumber:*/
 
 **RTL**
 
+![DE EXP2 'RTL REALIZATION](https://github.com/naavaneetha/BOOLEAN_FUNCTION_MINIMIZATION/assets/149148235/25295059-6b03-4dc9-bbd7-33924918dd47)
+
 **Timing Diagram**
+![EXP 2 DE WF](https://github.com/naavaneetha/BOOLEAN_FUNCTION_MINIMIZATION/assets/149148235/65e82b72-376c-4525-873b-be03547d6f35)
+
 
 **Result:**
 
